@@ -155,3 +155,8 @@ port = 11211
 ;
 ; "" = no token used (default)
 personal_access_token = ""
+
+[InstagramBridge]
+session_id = 5666923945%3AAdWOorZqqeg9tj%3A25%3AAYcX2IbvnhEJP2aUEaXxJAZP9164n3qEUYXKtOLkeQ
+ds_user_id = 5666923945
+cache_timeout = 10800
