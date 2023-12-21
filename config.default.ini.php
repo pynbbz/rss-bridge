@@ -23,6 +23,7 @@ enabled_bridges[] = TikTokBridge
 enabled_bridges[] = Twitch
 enabled_bridges[] = Twitter
 enabled_bridges[] = Vk
+enabled_bridges[] = Instagram
 enabled_bridges[] = XPathBridge
 enabled_bridges[] = Youtube
 enabled_bridges[] = YouTubeCommunityTabBridge
